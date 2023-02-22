@@ -1,2 +1,2 @@
 # java-course
-Conpleted Java course
+Completed Java course
